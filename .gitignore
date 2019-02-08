@@ -1,0 +1,5 @@
+.pio
+.pioenvs
+.piolibdeps
+.clang_complete
+src/secret.h
